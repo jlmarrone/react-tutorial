@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import Table from './Table'
-import { characters } from '../constants/Characters'
 import Form from './Form'
 
 class App extends Component {
